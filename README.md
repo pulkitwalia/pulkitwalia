@@ -1,6 +1,6 @@
 # 👋  Hi, I’m Pulkit Walia! Glad to see you here!
 
-A fanatic engineer adept in bringing forth significant experience in design, deployment, automation, testing, and maintenance of cloud systems. Equipped with a diverse and promising skill-set. Proficient in various platforms, languages, and technologies. Experienced with the latest cutting-edge development tools and procedures. Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team.
+A fanatic engineer adept in bringing forth significant experience in design, deployment, development, automation, testing, and maintenance of cloud & distributed systems. Equipped with a diverse and promising skill-set. Proficient in various platforms, languages, and technologies. Experienced with the latest cutting-edge development tools and procedures. Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team.
 
 [![Email Badge](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pulkit.walia@gmail.com)](mailto:pulkit.walia@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pulkit-walia/)](https://www.linkedin.com/in/pulkit-walia/)
