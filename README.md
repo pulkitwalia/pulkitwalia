@@ -65,6 +65,8 @@ A fanatic engineer adept in bringing forth significant experience in design, dep
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pulkitwalia&theme=tokyonight" />
 </p>
 
+![](https://github.com/pulkitwalia/pulkitwalia/blob/main/bottom_header.svg)
+
 <!---
 pulkitwalia/pulkitwalia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
